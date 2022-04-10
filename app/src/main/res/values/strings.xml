@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intelvest</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="address_hint">Address</string>
+    <string name="reference_hint">Reference</string>
+    <string name="item1">Record</string>
+    <string name="item2">Chat</string>
+    <string name="item3">My Account</string>
+    <string name="item4">Plans</string>
+    <string name="item5">Invest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

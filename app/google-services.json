@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57459840493",
+    "firebase_url": "https://intellvest-default-rtdb.firebaseio.com",
+    "project_id": "intellvest",
+    "storage_bucket": "intellvest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57459840493:android:9ad8ce3ce0a4b7d3b1c3e4",
+        "android_client_info": {
+          "package_name": "com.myapp.intellvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57459840493-a7ntnvf64vr3dn367dg41qgo23j0mqgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YtrOquliPcRJxT0f1lHnECVzO6gMjx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57459840493-a7ntnvf64vr3dn367dg41qgo23j0mqgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
